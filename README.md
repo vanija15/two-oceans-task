@@ -1,6 +1,10 @@
 # two-oceans-task
 Coding test for PHP developer
 
+
+how the API request and response documentation could look like for the REST API with the features mentioned
+file:///C:/Users/ASUS/AppData/Local/Temp/Temp1_Untitled%20document.zip/Untitleddocument.html
+
 how I would approach solving the REST API problem:
 
 Define the API endpoints: The first step is to define the API endpoints that will handle the various functionalities mentioned in the problem statement. The endpoints will include user registration, profile creation, post creation, post updating, post deletion, and comment creation.
